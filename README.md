@@ -1,4 +1,6 @@
-# ICAVE-Brain-Medical-Education
+# ICAVE Brain Medical Education
+FIU CAP-4710 Adv Computer Graphics 2019 Spring
+
 Goals:
 1. To learn ICAVE programming and obtain Virtual Reality technical skills.
 2. To learn how to use 3D interaction for medical education purpose.
