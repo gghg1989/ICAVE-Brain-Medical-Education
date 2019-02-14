@@ -14,3 +14,6 @@ Job Description:
 Task Distribution (suggested):
 1. ICAVE interface programming, visualization
 2. Brain contents preparation and design
+
+## Contribute
+If you want to contribute on our project, please check our [Wiki](https://github.com/gghg1989/ICAVE-Brain-Medical-Education/wiki) page.
