@@ -8,7 +8,7 @@ public class FauxGravityBody : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeRotation;
-        GetComponent<Rigidbody>().useGravity = false;
+        GetComponent<Rigidbody>().useGravity = true;
         myTransform = transform;
     }
 	

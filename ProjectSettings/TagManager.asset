@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - celebellum
+  - frontal
+  - occipital
+  - parietal
+  - stem
+  - temporal
   layers:
   - Default
   - TransparentFX
