@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: dacabc8ccf5e1574688816fc8f2fa3cb
+timeCreated: 1554252135
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cerebellum
+    100004: frontal1
+    100006: frontal2
+    100008: occipital1
+    100010: occipital2
+    100012: parietal1
+    100014: parietal2
+    100016: stem
+    100018: temporal1
+    100020: temporal2
+    400000: //RootNode
+    400002: cerebellum
+    400004: frontal1
+    400006: frontal2
+    400008: occipital1
+    400010: occipital2
+    400012: parietal1
+    400014: parietal2
+    400016: stem
+    400018: temporal1
+    400020: temporal2
+    2100000: BRAIN_TEXTURE_blinn2
+    2300000: cerebellum
+    2300002: frontal1
+    2300004: frontal2
+    2300006: occipital1
+    2300008: occipital2
+    2300010: parietal1
+    2300012: parietal2
+    2300014: stem
+    2300016: temporal1
+    2300018: temporal2
+    3300000: cerebellum
+    3300002: frontal1
+    3300004: frontal2
+    3300006: occipital1
+    3300008: occipital2
+    3300010: parietal1
+    3300012: parietal2
+    3300014: stem
+    3300016: temporal1
+    3300018: temporal2
+    4300000: temporal1
+    4300002: frontal2
+    4300004: parietal1
+    4300006: occipital1
+    4300008: parietal2
+    4300010: occipital2
+    4300012: frontal1
+    4300014: cerebellum
+    4300016: stem
+    4300018: temporal2
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
